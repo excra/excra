@@ -1,76 +1,39 @@
-<h1 align="center">Olá, eu sou Pedro Henrique 👋</h1>
+# Pedro Henrique de Oliveira Borges
 
-<p align="center">
-  Estudante de Engenharia de Controle e Automação na UFMG · Técnico em Mecatrônica (CEFET-MG)<br>
-  Estagiário em Controle de Processos na TAGNA · Belo Horizonte, MG 🇧🇷
-</p>
+Estudo Engenharia de Controle e Automação na UFMG e sou técnico em Mecatrônica pelo CEFET-MG. Hoje estagio em controle de processos na TAGNA, em Belo Horizonte.
 
----
+Comecei no chão de fábrica, fazendo manutenção preventiva e programando CLPs e inversores de frequência numa linha de produção de bebidas. Desde então, venho levando esse olhar prático para o lado dos dados, da telemetria e do controle de processos, que é onde quero trabalhar.
 
-## 👨‍💻 Sobre mim
+## No que estou focado
 
-Sou estudante de Engenharia de Controle e Automação na UFMG e Técnico em Mecatrônica pelo CEFET-MG. Atualmente, estagio em Controle de Processos na TAGNA.
+- Controle e automação de processos
+- IoT e telemetria
+- Análise de dados
 
-Tenho experiência prática em manutenção preventiva, programação de CLPs e inversores de frequência, além de modelagem em SolidWorks. Tenho interesse em automação industrial, controle de processos, IoT e análise de dados.
+## Ferramentas
 
-## 🎯 Áreas de interesse
+**Linguagens:** Python, C, C++, C#, R, MATLAB, Assembly, VHDL
 
-- ⚙️ Controle e automação de processos
-- 🏭 Automação industrial
-- 📡 IoT e telemetria
-- 📊 Análise de dados
+**Automação:** CODESYS, RSLogix 5000 (Ladder, ST e FBD), InTouch, TopServer e AVEVA System Platform Gateway (OPC), inversores de frequência
 
-## 🛠️ Habilidades técnicas
+**Outros:** SolidWorks, LaTeX
 
-**Programação**
+## Experiência
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
-![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge)
+**Estagiário em Controle de Processos** · TAGNA · atual
 
-**Automação industrial**
+**Estagiário em Mecatrônica** · Pon Chic (Taty Indústria e Comércio de Bebidas) · 2021–2023
+Manutenção preventiva para reduzir falhas e paradas, programação e testes de CLPs e inversores de frequência, e desenho de peças em SolidWorks. Passei por vários setores da produção.
 
-- CLPs: CODESYS, RSLogix 5000
-- Linguagens IEC 61131-3: Ladder, ST, FBD
-- SCADA: InTouch
-- Comunicação OPC: TopServer, AVEVA System Platform Gateway
-- Inversores de frequência
+**Auxiliar Operacional** · Dedetizadora Borges (negócio da família) · 2020–atual
 
-**Projeto e modelagem:** SolidWorks  
-**Ferramentas:** LaTeX, Pacote Office
+## Formação
 
-## 💼 Experiência
+- Engenharia de Controle e Automação, UFMG (2023 – previsão 2029/2)
+- Técnico em Mecatrônica, CEFET-MG
 
-**Estagiário em Controle de Processos — TAGNA**  
-*Atual*
+Inglês intermediário–avançado, espanhol intermediário.
 
-**Estagiário em Mecatrônica — Pon Chic (Taty Indústria e Comércio de Bebidas Ltda)**  
-*Divinópolis, MG · 2021 – 2023*
+## Contato
 
-- Atuação multidisciplinar nos setores produtivos, com rotatividade entre áreas para desenvolver visão sistêmica da operação fabril.
-- Manutenção preventiva com foco na redução de falhas e do downtime.
-- Programação, parametrização e testes de CLPs e inversores de frequência.
-- Modelagem e desenho técnico de componentes mecânicos em SolidWorks.
-
-**Auxiliar Operacional — Dedetizadora Borges** *(negócio familiar, atuação flexível)*  
-*Divinópolis, MG · 2020 – atual*
-
-## 🎓 Formação
-
-- **Bacharelado em Engenharia de Controle e Automação** — UFMG, Belo Horizonte · 2023 – 2029/2 (previsto)
-- **Técnico em Mecatrônica** — CEFET-MG, Divinópolis
-
-## 🌎 Idiomas
-
-- Inglês: intermediário–avançado
-- Espanhol: intermediário
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroholiveiraborges)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroholiveiraborges@gmail.com)
+[LinkedIn](https://linkedin.com/in/pedroholiveiraborges) · [pedroholiveiraborges@gmail.com](mailto:pedroholiveiraborges@gmail.com)
